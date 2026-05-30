@@ -65,4 +65,4 @@
 
 ### ✨ Quote
 
-"Great products are built at the intersection of creativity, technology, and persistence."
+"Bringing ideas to life."
