@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Gad</h1>
-<h3 align="center">Crafting experiences with code & creativity ✨ | React, Tailwind CSS, Supabase, GSAP | Founder of Femiknot</h3>
+<h3 align="center">Crafting experiences with code & creativity ✨ | React, Tailwind CSS, Supabase, GSAP</h3>
 
 ---
 
