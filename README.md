@@ -50,8 +50,8 @@
 
 - Instagram: @ishagad_
 - Email: ishagad05@gmail.com
-- Femiknot: Coming Soon
-- Portfolio:<a href="https://portfolio-web-amber-one.vercel.app?_vercel_share=8M4E8Rsc380io0HdbSaEGWSOQXHGIlzd"></a>
+- LinkedIn: [LinkedIn](linkedin.com/in/isha-gad)
+- Portfolio: [Portfolio]("https://portfolio-web-amber-one.vercel.app?_vercel_share=8M4E8Rsc380io0HdbSaEGWSOQXHGIlzd")
 
 ---
 
