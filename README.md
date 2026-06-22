@@ -50,8 +50,8 @@
 
 - Instagram: @ishagad_
 - Email: ishagad05@gmail.com
-- LinkedIn: [LinkedIn](linkedin.com/in/isha-gad)
-- Portfolio: [Portfolio]("https://portfolio-web-amber-one.vercel.app?_vercel_share=8M4E8Rsc380io0HdbSaEGWSOQXHGIlzd")
+- LinkedIn: [LinkedIn](https://linkedin.com/in/isha-gad)
+- Portfolio: [Portfolio](https://portfolio-web-amber-one.vercel.app?_vercel_share=8M4E8Rsc380io0HdbSaEGWSOQXHGIlzd)
 
 ---
 
