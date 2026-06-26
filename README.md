@@ -63,10 +63,6 @@
 ### 3. [Femiknot Website]()
 
 ---
-## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=ishagad09&theme=prussian&hide_border=false)<br/>
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
